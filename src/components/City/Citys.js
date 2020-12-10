@@ -15,7 +15,7 @@ const Citys = () => {
                const {data} = await getCitys();
                setCitys(data);
            } catch(err) {
-               setError(err)
+               setError(err) 
            }      
        };
        init();

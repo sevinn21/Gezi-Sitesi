@@ -8,7 +8,7 @@ const CityItem = ({name,onShowDetail}) => {
         onShowDetail && onShowDetail(name);
       }}>
        <CardContent >
-       <CardTitle>{name}</CardTitle>
+       <CardTitle>{name}</CardTitle> 
        </CardContent>
        </CardWrapper>
     )
