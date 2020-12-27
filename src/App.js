@@ -6,7 +6,7 @@ import HomePage from "./components/HomePage/HomePage";
 import Contact from "./components/Contact/Contact";
 
 function App() {
-  return (
+  return ( 
     <>
     <BrowserRouter>
     <Switch>
