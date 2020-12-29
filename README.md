@@ -1,6 +1,6 @@
 # Gezi Sitesi
 
-Bu sitede gitmek istediğiniz yeri basit arayüzler sayesin de hızlıca bulabilir ve bilgi edinebilirsiniz.
+Bu sitede gitmek istediğiniz yeri basit arayüzler sayesinde hızlıca bulabilir ve bilgi edinebilirsiniz.
 
 ## Siteye ait bazı görseller
 
